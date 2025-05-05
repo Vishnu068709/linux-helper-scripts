@@ -48,6 +48,3 @@ This project contains a collection of shell scripts designed to assist with comm
      ./scripts/find_large_files.sh
      ```
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
